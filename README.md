@@ -1,12 +1,15 @@
-# 📊 Power BI – Advanced Sales Analysis Dashboards  
+# 📊 Power BI – Adventure Works Sales Analysis Dashboards  
 
 ## 📌 Overview  
 This project presents **9 interactive Power BI dashboards** showcasing advanced business intelligence concepts.  
 It demonstrates skills in **data modeling, DAX, bookmarks, dynamic visuals, maps, and interactive analysis**.  
-Perfect for building a **portfolio** for internships and job opportunities.  
 
 ---
 
+**Quick Preview :**  
+![Dashboard Demo](Dashboard_Demo.gif)  
+
+---
 ## 📊 Dashboards  
 
 ### 🔹 1. Home Page  
@@ -38,10 +41,7 @@ Perfect for building a **portfolio** for internships and job opportunities.
 
 ---
 
-**Quick Preview :**  
-![Dashboard Demo](Dashboard_Demo.gif)  
 
----
 
 ## ⚙️ Features  
 ✔️ KPIs (Sales, Orders, Return Rate)  
