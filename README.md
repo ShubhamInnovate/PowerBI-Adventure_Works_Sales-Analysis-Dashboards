@@ -38,8 +38,8 @@ Perfect for building a **portfolio** for internships and job opportunities.
 
 ---
 
-**Quick Preview (GIF):**  
-![Dashboard Demo](Dashboard_Demo_Combined.gif)  
+**Quick Preview :**  
+![Dashboard Demo](Dashboard_Demo.gif)  
 
 ---
 
