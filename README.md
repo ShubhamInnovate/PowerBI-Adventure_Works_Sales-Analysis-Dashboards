@@ -9,6 +9,10 @@ It demonstrates skills in **data modeling, DAX, bookmarks, dynamic visuals, maps
 **Quick Preview :**  
 ![Dashboard Demo](Dashboard_Demo.gif)  
 
+# Adventure Works Dashboard (Power BI)
+
+![Adventure Works Demo](https://raw.githubusercontent.com/ShubhamInnovate/Adventure-Works-Dashboard-PowerBI/main/assets/demo.gif)
+
 ---
 ## 📊 Dashboards  
 
