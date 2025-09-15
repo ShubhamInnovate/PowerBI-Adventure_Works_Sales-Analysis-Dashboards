@@ -11,8 +11,6 @@ It demonstrates skills in **data modeling, DAX, bookmarks, dynamic visuals, maps
 
 # Adventure Works Dashboard (Power BI)
 
-![Power BI Dashboard Demo](https://raw.githubusercontent.com/ShubhamInnovate/Superstore-Sales-Dashboard-PowerBI/main/assets/Dashboard_Demo.gif)
-
 ---
 ## 📊 Dashboards  
 
